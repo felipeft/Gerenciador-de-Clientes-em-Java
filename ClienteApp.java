@@ -3,7 +3,7 @@ import javax.swing.table.DefaultTableModel;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.sql.SQLException;
-import java.util.List;
+import java.util.List
 
 public class ClienteApp extends JFrame {
     private ClienteDAO clienteDAO;
